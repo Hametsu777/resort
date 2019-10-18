@@ -1,0 +1,37 @@
+body, button {
+	background-color: BlanchedAlmond;
+	color: Navy;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#pageTitle {
+	text-align: center;
+	height: 100px;
+}
+
+h1 {
+	border: 2px solid Orange;
+	background-color: LightBlue;
+}
+
+div {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 25px;
+}
+
+.amenities {
+	color: #CC0000;
+}
+
+.nearby {
+	color: #008060;
+}
+
+.center { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -400px;
+	width: 50%;
+}
